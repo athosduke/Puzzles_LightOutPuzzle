@@ -1,14 +1,3 @@
-############################################################
-# CMPSC 442: Homework 2
-############################################################
-
-student_name = "Songmeng Wang"
-
-############################################################
-# Imports
-############################################################
-
-# Include your imports here, if any are used.
 import math
 import random
 from itertools import combinations
@@ -242,21 +231,3 @@ def solve_distinct_disks(length, n):
                     newdict[new_line] = new_step
         mydict = newdict
 
-############################################################
-# Section 4: Feedback
-############################################################
-
-feedback_question_1 = """
-11 hours
-"""
-
-feedback_question_2 = """
-The solution blocks is especially challenging
-This first solution part (n queen) struggle me for a while
-"""
-
-feedback_question_3 = """
-the second part is interesting.
-I would delete one of the puzzle part.
-Solving all these kind of puzzle is boring
-"""
