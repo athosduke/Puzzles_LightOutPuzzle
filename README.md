@@ -3,7 +3,7 @@ It also Include N_Queen Puzzle and Linear Disk Puzzle. But GUI not included for 
 
 # Instruction
 use cmd in the location of the py files, enter:\
-*python homework2_lights_out_gui.py rows cols\*
+"python homework2_lights_out_gui.py rows cols"\
 Light Out Puzzle Game good to play!
 
 # Rules
