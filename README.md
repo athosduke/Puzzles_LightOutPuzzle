@@ -13,12 +13,12 @@ states: on and off. The goal of the puzzle is to turn all the lights off, with t
 caveat that whenever a light is toggled, its neighbors above, below, to the left,
 and to the right will be toggled as well. If a light along the edge of the board is
 toggled, then fewer than four other lights will be affected, as the missing
-neighbors will be ignored.\
+neighbors will be ignored.
 
 2. N_Queens\
 N queens are to be placed on an n x n chessboard so that no pair of queens can
 attack each other. Recall that in chess, a queen can attack any piece that lies in
-the same row, column, or diagonal as itself.\
+the same row, column, or diagonal as itself.
 
 3. Linear Disk\
 The starting configuration of this puzzle is a row of L cells, with disks located on
